@@ -43,13 +43,14 @@ body{
 
 .home {
     background: #FBFFF1;
-    padding-left: 48px;
-    padding-right: 48px;
+    padding-left: 124px;
+    padding-right: 124px;
+    padding-top: 24px;
     display: flex;
     flex: 1;
     flex-direction: row;
-
-      
+    align-items: center;
+   
 }
 
 .home-title {
@@ -59,7 +60,9 @@ body{
 .home-intro{
     padding: 78px;
     padding-top: 12px;
+    max-width: 60%;
 }
+
 .thinking-man{
     border-radius: 12px;
     width: 220px;
