@@ -1,2 +1,2 @@
 # odin-webpage
-Personal landing webpage project
+Personal landing webpage project from the odin project
